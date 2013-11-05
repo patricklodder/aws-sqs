@@ -10,7 +10,7 @@
     "Patrick Lodder <patrick.lodder@intellibiz.org> (https://github.com/patricklodder)"
   ],
   "dependencies": {
-    "aws-lib": "0.0.6"
+    "aws-lib": "0.2.1"
   },
   "devDependencies": {
     "vows": "0.7.0"
